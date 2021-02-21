@@ -1,8 +1,40 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am writing a novel. About love in its many very forms.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+(It’s actually about My Favourite Trio - because I’m biased and made them that way.)
+
+Spoilers:
+Andrew doesn’t understand human.
+Nile wants to know EVERYTHING.
+Alyssa just wishes she could eat an avocado toast in peace.
+
+This is not a love triangle
+.
+.
+.
+...OR IS IT?
+
+My aim is to write an original novel where its fanfiction can be commercialised and celebrated.
+
+Previous generations of fan creators have been raising me for a long time.
+
+This is my promise to you.
+
+This writer loves you and is trying her very best to give back to the world that loves her.
+
+Despite the empty wallet, fan creators reached out through the fog of gaslighting despair and rescued me.
+
+You’ve shown me the stars, taken me over to a thousand figurative multiverses, and let me know from somewhere—somehow that even in my darkest days, I was not alone.
+
+I’m only hoping to bring you back a galaxy.
+
+Del
+—a girl with too many dreams/names/ambitions
+
+🥺💖🎶
+
+ps. It begins in This Geist
