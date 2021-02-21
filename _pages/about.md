@@ -37,4 +37,4 @@ Del
 
 🥺💖🎶
 
-ps. It begins in This Geist
+ps. we adore playing hide-and-seek in our house of This Geist on 6th Street (scavenger's hunt, too ;)
