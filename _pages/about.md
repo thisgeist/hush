@@ -13,9 +13,9 @@ Nile wants to know EVERYTHING.
 Alyssa just wishes she could eat an avocado toast in peace.
 
 This is not a love triangle
-.
-.
-.
+...
+...
+...
 ...OR IS IT?
 
 My aim is to write an original novel where its fanfiction can be commercialised and celebrated.
