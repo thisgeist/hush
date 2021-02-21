@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: This Geist
+email: i@thisgeist.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  So much to tell; So little time. Can someone please put this in a disolvable pill? 
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+twitter_username: thisgeist
+github_username: thisgeist
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,19 +59,20 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Del E. Sasha"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm building our house in This Geist on 6th Street. After that, I hope you'll make it feel like home."
+  #"My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Read This Geist Under Construction"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://thisgeist.substack.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/thisgeist"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/thisgeist"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -79,10 +81,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/thisgeist"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/thisgeist"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
