@@ -1,1 +1,6 @@
-**<a href="https://loutay.xyz">Hello, Sweetie.</a>**
+---
+permalink: /url/
+title: "Hello, Sweetie."
+---
+
+**<a href="https://loutay.xyz">((Shh...Spoilers))</a>**
