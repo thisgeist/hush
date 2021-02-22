@@ -1,9 +1,9 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "Del E. Sasha"
 ---
 
-I am writing a novel. About love in its many very forms.
+I am writing a novel. About love in its very many forms.
 
 (It’s actually about My Favourite Trio - because I’m biased and made them that way.)
 
